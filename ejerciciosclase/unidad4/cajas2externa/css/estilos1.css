@@ -1,0 +1,11 @@
+
+p {
+    background: linear-gradient(red, yellow, purple);
+    width: 25%;
+    padding: 20px;
+    border-top: 20px solid blue;
+    border-bottom: 20px solid salmon;
+    border-right: 20px solid green;
+    border-left: 20px solid grey;
+    margin: 30px;
+    }

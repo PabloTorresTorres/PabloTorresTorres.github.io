@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pablo Torres Torres ejercicios HTML</title>
+        <link></link>
+        <item>
+            <title>Ejercicio 1</title>
+            <link></link>
+        </item>
+        <item>
+            <title>Ejercicio 2</title>
+            <link></link>
+        </item>
+        <item>
+            <title>Ejercicio 3</title>
+            <link></link>
+        </item>
+        <item>
+            <title>Ejercicio 4</title>
+            <link></link>
+        </item>
+        <item>
+            <title>Ejercicio 5</title>
+            <link></link>
+        </item>
+    </channel>
+</rss>

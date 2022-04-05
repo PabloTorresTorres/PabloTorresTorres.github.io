@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="datospersonas.xsd">
+    <persona>
+        <nombre>Juan José</nombre>
+        <edad>29</edad>
+        <pais>España</pais>
+        <telefono>937454185</telefono>
+    </persona>
+    <persona>
+        <nombre>Rosa Melano</nombre>
+        <edad>45</edad>
+        <pais>Alemania</pais>
+        <telefono>937459264</telefono>
+    </persona>
+    <persona>
+        <nombre>José Carlos</nombre>
+        <edad>142</edad>
+        <pais>Bod</pais>
+        <telefono>91593185</telefono>
+    </persona>
+</personas>

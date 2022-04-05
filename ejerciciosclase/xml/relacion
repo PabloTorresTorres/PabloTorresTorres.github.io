@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE relacion SYSTEM "relaciondtd">
+<relacion>
+  <persona carnet="A" sexo="hombre">
+    <nombre>Roberto Martínez</nombre>
+    <email>robermar123@gmail.com</email>
+    <parentesco tutor-legal="C" hermano-a="B"/>
+  </persona>
+  <persona carnet="B" sexo="mujer">
+    <nombre>Rosa Melano</nombre>
+    <email>rosamel@gmail.com</email>
+    <parentesco tutor-legal="C" hermano-a="A"/>
+  </persona>
+  <persona carnet="C" sexo="hombre">
+    <nombre>Pedro López</nombre>
+    <email>pedrolopez@hotmail.com</email>
+  </persona>
+</relacion>
